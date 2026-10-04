@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Comet Letters</title>
+<title>Comettype</title>
 <style>
   :root{
     --panel-bg: rgba(14,16,26,0.86);
@@ -113,7 +113,7 @@
 
 <button id="panelToggle" title="Show controls">☰</button>
 <div id="panel">
-  <h1>Comet Letters</h1>
+  <h1>Comettype</h1>
   <p id="tagline"></p>
 
   <label>Text</label>
@@ -819,7 +819,7 @@ let expBB = null;                 // content box captured when the export panel 
 const expMargin = ()=> Math.max(0, Math.round(parseFloat($('expM').value) || 0));
 function suggestName(){
   const slug = S.text.trim().replace(/[^\w\- ]+/g,'').replace(/\s+/g,'-').toLowerCase() || 'text';
-  return 'comet-letters-'+slug+'-loop.gif';
+  return 'comettype-'+slug+'-loop.gif';
 }
 $('exportBtn').addEventListener('click', ()=>{
   const box = $('exportBox');

@@ -10,8 +10,6 @@ The whole program is a single HTML file. There is nothing to install, no account
 
 ![The Comettype control panel beside the word COMETTYPE in magenta and yellow](media/comettype.png)
 
-The panel in the screenshot is titled Comet Letters, which was the working name while it was being built.
-
 ## Two ways to run it
 
 **On the web.** Go to [potncoffee.github.io/comettype](https://potncoffee.github.io/comettype/). That is all.
