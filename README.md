@@ -2,7 +2,7 @@
 
 # Comettype
 
-Comettype turns whatever you type into 3D block letters made of light. The letter shapes themselves are invisible. What you see is a swarm of small comets bouncing around inside them, and their trails are what draw the word. You can spin the word in 3D, restyle every part of it, and export the result as a seamlessly looping animated GIF.
+Comettype turns whatever you type into 3D block letters made of light, using any of your system fonts, with typesetting options like letter spacing. The letter shapes themselves are invisible. What you see is a swarm of small comets bouncing around inside them, and their trails are what draw the word. You can spin the word in 3D, restyle every part of it, and export the result as a seamlessly looping animated GIF.
 
 **Open it here and start typing: [potncoffee.github.io/comettype](https://potncoffee.github.io/comettype/)**
 
