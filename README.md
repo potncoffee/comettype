@@ -14,7 +14,7 @@ The whole program is a single HTML file. There is nothing to install, no account
 
 **On the web.** Go to [potncoffee.github.io/comettype](https://potncoffee.github.io/comettype/). That is all.
 
-**On your own computer.** Download [comettype.html](https://github.com/potncoffee/comettype/releases/latest/download/comettype.html) from the latest release and double-click it. It opens in your default browser and works the same as the web version, online or off. The file named `index.html` in this repository is the same program. It carries that name because GitHub needs it in order to serve the page.
+**Or download it to your own computer.** Get `comettype.html` from the [latest release](https://github.com/potncoffee/comettype/releases/latest) and double-click it. It opens in your default browser and works the same as the web version, online or off. The file named `index.html` in this repository is the same program. It carries that name because GitHub needs it in order to serve the page.
 
 ## How to use it
 
